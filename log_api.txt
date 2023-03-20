@@ -1,0 +1,9 @@
+msg_id 18699594e656c95a \ 2023-02-27 15:20:17.254269 : {"error":{"status":400,"message":"$regex has to be a string"}}
+
+msg_id 1865aa8f97b4be44 \ 2023-03-02 20:45:15.811025 : {"error":{"status":400,"message":"$regex has to be a string"}}
+
+msg_id 18698d4a29efddce \ 2023-03-02 20:45:19.811025 : {"error":{"status":400,"message":"$regex has to be a string"}}
+
+
+msg_id 186a2ed11665e2d7 \ 2023-03-21 00:13:49.320018 : {"error":{"status":422,"message":"No available room enough for your booking"}}
+
